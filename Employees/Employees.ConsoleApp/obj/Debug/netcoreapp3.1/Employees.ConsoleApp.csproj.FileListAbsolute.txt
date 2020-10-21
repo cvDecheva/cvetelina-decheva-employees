@@ -7,7 +7,10 @@ C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp
 C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\obj\Debug\netcoreapp3.1\Employees.ConsoleApp.csprojAssemblyReference.cache
 C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\obj\Debug\netcoreapp3.1\Employees.ConsoleApp.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\obj\Debug\netcoreapp3.1\Employees.ConsoleApp.AssemblyInfo.cs
-C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\obj\Debug\netcoreapp3.1\Employees.ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\obj\Debug\netcoreapp3.1\Employees.ConsoleApp.dll
 C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\obj\Debug\netcoreapp3.1\Employees.ConsoleApp.pdb
 C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\obj\Debug\netcoreapp3.1\Employees.ConsoleApp.genruntimeconfig.cache
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\obj\Debug\netcoreapp3.1\Employees.ConsoleApp.csproj.CopyComplete
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\bin\Debug\netcoreapp3.1\FileHelpers.dll
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.ConsoleApp\obj\Debug\netcoreapp3.1\Employees.ConsoleApp.csproj.CoreCompileInputs.cache
