@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.Common\bin\Debug\netcoreapp3.1\Employees.Common.deps.json
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.Common\bin\Debug\netcoreapp3.1\Employees.Common.dll
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.Common\bin\Debug\netcoreapp3.1\Employees.Common.pdb
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.Common\obj\Debug\netcoreapp3.1\Employees.Common.csprojAssemblyReference.cache
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.Common\obj\Debug\netcoreapp3.1\Employees.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.Common\obj\Debug\netcoreapp3.1\Employees.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.Common\obj\Debug\netcoreapp3.1\Employees.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.Common\obj\Debug\netcoreapp3.1\Employees.Common.dll
+C:\Users\User\Desktop\cvetelina-decheva-employees\Employees\Employees.Common\obj\Debug\netcoreapp3.1\Employees.Common.pdb

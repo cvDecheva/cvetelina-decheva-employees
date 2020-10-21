@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Employees.ConsoleApp.Coverters
+namespace Employees.Common.Coverters
 {
     public class DateTimeConverter
     {

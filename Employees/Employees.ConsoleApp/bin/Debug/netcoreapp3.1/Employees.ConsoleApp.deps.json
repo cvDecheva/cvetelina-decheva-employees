@@ -8,40 +8,15 @@
     ".NETCoreApp,Version=v3.1": {
       "Employees.ConsoleApp/1.0.0": {
         "dependencies": {
-          "CsvHelper": "15.0.8",
-          "FileHelpers": "3.4.1"
+          "Employees.Common": "1.0.0"
         },
         "runtime": {
           "Employees.ConsoleApp.dll": {}
         }
       },
-      "CsvHelper/15.0.8": {
-        "dependencies": {
-          "Microsoft.CSharp": "4.5.0"
-        },
+      "Employees.Common/1.0.0": {
         "runtime": {
-          "lib/netstandard2.1/CsvHelper.dll": {
-            "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.8.0"
-          }
-        }
-      },
-      "FileHelpers/3.4.1": {
-        "dependencies": {
-          "NETStandard.Library": "2.0.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/FileHelpers.dll": {
-            "assemblyVersion": "3.4.1.0",
-            "fileVersion": "3.4.1.0"
-          }
-        }
-      },
-      "Microsoft.CSharp/4.5.0": {},
-      "Microsoft.NETCore.Platforms/1.1.0": {},
-      "NETStandard.Library/2.0.0": {
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "1.1.0"
+          "Employees.Common.dll": {}
         }
       }
     }
@@ -52,40 +27,10 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CsvHelper/15.0.8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-S/EOFs0QiyX1auRZET2lqyXLheSzVYbqn6PkMBOHi28qMepDqI+5FXDb9plYU8kMB2jIADOp+zuBKn+OX6N3Uw==",
-      "path": "csvhelper/15.0.8",
-      "hashPath": "csvhelper.15.0.8.nupkg.sha512"
-    },
-    "FileHelpers/3.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-7mETxuw4ChoYLYChbWtSEDlZebOzZQrkUfFkl14P57PalDayQWU0gJeOiQG4Vpl64YgDdj4LxakyI5J0NYnR6Q==",
-      "path": "filehelpers/3.4.1",
-      "hashPath": "filehelpers.3.4.1.nupkg.sha512"
-    },
-    "Microsoft.CSharp/4.5.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
-      "path": "microsoft.csharp/4.5.0",
-      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
-    },
-    "Microsoft.NETCore.Platforms/1.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
-      "path": "microsoft.netcore.platforms/1.1.0",
-      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
-    },
-    "NETStandard.Library/2.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
-      "path": "netstandard.library/2.0.0",
-      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+    "Employees.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

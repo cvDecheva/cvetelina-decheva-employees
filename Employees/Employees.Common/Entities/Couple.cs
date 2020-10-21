@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Employees.ConsoleApp.Entities
+namespace Employees.Common.Entities
 {
     public class Couple
     {

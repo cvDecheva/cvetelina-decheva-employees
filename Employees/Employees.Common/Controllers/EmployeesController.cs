@@ -1,8 +1,8 @@
-﻿using Employees.ConsoleApp.Entities;
+﻿using Employees.Common.Entities;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Employees.ConsoleApp.Controllers
+namespace Employees.Common.Controllers
 {
     public class EmployeesController
     {

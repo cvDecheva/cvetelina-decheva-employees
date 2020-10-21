@@ -1,12 +1,9 @@
-﻿using CsvHelper;
-using Employees.ConsoleApp.Entities;
-using FileHelpers;
+﻿using Employees.Common.Entities;
 using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.IO;
 
-namespace Employees.ConsoleApp.Coverters
+namespace Employees.Common.Coverters
 {
     public class FileConverter
     {

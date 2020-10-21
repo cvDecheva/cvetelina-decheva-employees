@@ -1,6 +1,7 @@
-﻿using Employees.ConsoleApp.Coverters;
-using Employees.ConsoleApp.Entities;
-using Employees.ConsoleApp.Controllers;
+﻿
+using Employees.Common.Controllers;
+using Employees.Common.Coverters;
+using Employees.Common.Entities;
 using System;
 using System.Collections.Generic;
 using System.IO;

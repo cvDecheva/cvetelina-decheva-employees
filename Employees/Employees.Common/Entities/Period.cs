@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Employees.ConsoleApp.Entities
+namespace Employees.Common.Entities
 {
     public class Period
     {
