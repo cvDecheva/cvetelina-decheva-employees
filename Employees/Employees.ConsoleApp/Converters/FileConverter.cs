@@ -1,28 +1,12 @@
-﻿using System;
+﻿using Employees.ConsoleApp.Entities;
+using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Employees.ConsoleApp
+namespace Employees.ConsoleApp.Coverters
 {
     public class FileConverter
     {
-        private static bool TryConvertDate(string date, out DateTime convertedDate)
-        {
-            if(DateTime.TryParse(date, out convertedDate))
-            {
-                return true;
-            }
-            else if(date.ToLower() == "null")
-            {
-                convertedDate = DateTime.Now;
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
-
         public static List<Employee> ConvertToEmployees(string filePath)
         {
             string[] fileRows = File.ReadAllLines(filePath);
@@ -40,10 +24,12 @@ namespace Employees.ConsoleApp
                     DateTime dateFrom;
                     DateTime dateTo;
 
-                    if(Int32.TryParse(splittedRow[0], out empId) && Int32.TryParse(splittedRow[1], out projectId) &&
-                        TryConvertDate(splittedRow[2], out dateFrom) && TryConvertDate(splittedRow[3], out dateTo))
+                    if(int.TryParse(splittedRow[0], out empId) && int.TryParse(splittedRow[1], out projectId) &&
+                        DateTimeConverter.ConvertStringToDate(splittedRow[2], out dateFrom) && 
+                        DateTimeConverter.ConvertStringToDate(splittedRow[3], out dateTo) && 
+                        dateFrom <= dateTo)
                     {
-                        employees.Add(new Employee(empId, projectId, dateFrom, dateTo));
+                        employees.Add(new Employee(empId, projectId, new Period(dateFrom, dateTo)));
                     }
                 }
             }
